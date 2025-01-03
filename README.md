@@ -38,7 +38,7 @@ Programa exclusivo e promovido pela Rocketseat para ensino de tecnologias WEB. <
 
 Construir uma aplicação completa com roteamento e diversos conceitos importantes de ecossistema React como ContextAPI, useReducer, immer e muito mais.
 
-- [Acesse o projeto finalizado, online](https://github.com/AnaVelho/Ignite)
+- [Acesse o projeto finalizado, online](https://anavelho.github.io/Ignite/)
 
 
 ## 🔖 Layout

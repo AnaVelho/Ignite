@@ -1,50 +1,50 @@
 # React + TypeScript + Vite
+<h1 align="center">Ignite timer </h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<p align="center">
+Programa exclusivo e promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">Licença</a>
+</p>
 
-## Expanding the ESLint configuration
+<p align="center">
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+</p>
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+<br>
 
-- Configure the top-level `parserOptions` property like this:
+<p align="center">
+  <img alt="projeto Ignite-Timer" src=".github/preview.png"
+   width="100%">
+</p>
 
-```js
-export default tseslint.config({
-  languageOptions: {
-    // other options...
-    parserOptions: {
-      project: ['./tsconfig.node.json', './tsconfig.app.json'],
-      tsconfigRootDir: import.meta.dirname,
-    },
-  },
-})
-```
 
-- Replace `tseslint.configs.recommended` to `tseslint.configs.recommendedTypeChecked` or `tseslint.configs.strictTypeChecked`
-- Optionally add `...tseslint.configs.stylisticTypeChecked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and update the config:
+## 🚀 Conteúdo:
 
-```js
-// eslint.config.js
-import react from 'eslint-plugin-react'
+- Estrutura da Aplicação
+- Páginas e rotas
+- Formulários
+- Funcionalidades da aplicação
+- contexto no React
+- Reducers
 
-export default tseslint.config({
-  // Set the react version
-  settings: { react: { version: '18.3' } },
-  plugins: {
-    // Add the react plugin
-    react,
-  },
-  rules: {
-    // other rules...
-    // Enable its recommended rules
-    ...react.configs.recommended.rules,
-    ...react.configs['jsx-runtime'].rules,
-  },
-})
-```
+
+## 💻 Projeto
+
+Construir uma aplicação completa com roteamento e diversos conceitos importantes de ecossistema React como ContextAPI, useReducer, immer e muito mais.
+
+- [Acesse o projeto finalizado, online](https://github.com/AnaVelho/Ignite)
+
+
+## 🔖 Layout
+
+Você pode visualizar o layout do projeto através [Desse Link]
+(https://www.figma.com/design/TzO7VFnHYnjEARwUzRkMzt/Ignite-Feed-(Community)?node-id=0-1&p=f&t=LmwawyiHV3dm7WJD-0) É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+
+Feito by Rocketseat :wave: [Participe da nossa comunidade!]
+(https://discord.gg/rocketseat)

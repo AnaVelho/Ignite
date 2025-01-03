@@ -44,7 +44,7 @@ Construir uma aplicação completa com roteamento e diversos conceitos important
 ## 🔖 Layout
 
 Você pode visualizar o layout do projeto através [Desse Link]
-(https://www.figma.com/design/TzO7VFnHYnjEARwUzRkMzt/Ignite-Feed-(Community)?node-id=0-1&p=f&t=LmwawyiHV3dm7WJD-0) É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+(https://www.figma.com/design/rXUv5ngX0OUMslsT8bxtEG/Ignite-Timer-(Community)?node-id=0-1&p=f&t=6exlUvgNwXrNRmkt-0) É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 Feito by Rocketseat :wave: [Participe da nossa comunidade!]
 (https://discord.gg/rocketseat)
